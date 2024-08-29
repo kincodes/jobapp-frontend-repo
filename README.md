@@ -6,7 +6,7 @@ and update the status when necessary.
 
 Key tools used: Java, Spring Boot, MySQL, React, JSON, JUnit 5 & Mockito.
 
-Link to the Java/Spring Boot backend:
+Link to the Java/Spring Boot backend: [backend](https://github.com/kincodes/jobapp-repo.git)
 
 # Getting Started with Create React App
 
