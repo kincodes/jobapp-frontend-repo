@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.main-div {
+  display: "flex";
+  height: 100vh;
+  float: left;
+  position: relative;
+
+  overflow: "scroll initial";
+}
+.navbar {
+  justify-content: space-between;
+  background: rgb(3, 91, 117);
+  padding: 10px 16px;
+  height: 75px;
+  /* margin-bottom: 5px; */
+}
+.navbar-logo {
+  color: white;
+  font-size: 20px;
+  margin-right: 30px;
+}
+.navbar-light .navbar-brand {
+  color: White;
+}
+
+.me-2 {
+  width: 20% ;
+}
+.search-button{
+
+    font-size: 15 px;
+    display: flex;
+    color:white;
+    background-color: rgb(51, 48, 48);
+
+     border: none;
+   /* outline: none;
+    border-radius: 40px; */
+    text-align: right;
+    padding: 3.5px;
+
+}
+.search-button:hover{
+    background-color: rgb(22, 150, 5);
+   
+
+}
