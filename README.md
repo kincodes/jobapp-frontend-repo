@@ -1,3 +1,13 @@
+# Job Management System
+
+The Job Management System allows users to be more organized when applying for jobs. When users
+apply for jobs they can simply just use this web application to keep track of all the jobs they applied to
+and update the status when necessary.
+
+Key tools used: Java, Spring Boot, MySQL, React, JSON, JUnit 5 & Mockito.
+
+Link to the Java/Spring Boot backend:
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
